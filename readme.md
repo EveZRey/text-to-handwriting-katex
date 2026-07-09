@@ -12,7 +12,6 @@ Se ha integrado **KaTeX** para habilitar el soporte completo de expresiones alge
 Este repositorio se comparte de manera definitiva en su estado actual. **No estará bajo actualización activa ni recibirá mantenimiento.** Se publica con la única intención de compartir la mejora matemática implementada y dejar el código disponible para quien lo necesite.
 
 
-
 ## 📚 Librerías Utilizadas y Créditos
 
 Este software se construye sobre el excelente trabajo de la comunidad de código abierto. Se respetan y mantienen los créditos de las siguientes herramientas:
@@ -25,11 +24,9 @@ Este software se construye sobre el excelente trabajo de la comunidad de código
 - [serve](https://github.com/zeit/serve) - Servidor local para desarrollo.
 
 
-
 ## 📜 Licencia
 
 Al ser un derivado directo del proyecto original, este repositorio se distribuye bajo los términos de la **Licencia MIT**. Conserva el archivo `LICENSE` original en la raíz para mantener la validez de los derechos de autor.
-
 
 
 ## ❤️ Gratitud
